@@ -1,8 +1,17 @@
 {
+<<<<<<< HEAD
     "name": "normalize-css",
     "repo": "necolas/normalize.css",
     "version": "1.1.3",
     "styles": ["normalize.css"],
     "author": "Nicolas Gallagher",
     "license": "MIT"
+=======
+  "name": "normalize.css",
+  "repo": "necolas/normalize.css",
+  "version": "3.0.3",
+  "styles": ["normalize.css"],
+  "author": "Nicolas Gallagher",
+  "license": "MIT"
+>>>>>>> necolas/master
 }
